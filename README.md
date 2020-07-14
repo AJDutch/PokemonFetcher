@@ -1,6 +1,6 @@
 # pokemon_fetcher
 
-Fetch Pokemoon from the PokeAPI
+Fetch Pokemon from the PokeAPI
 
 ## Getting Started
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+You will need Android Studio then flutter and Dart pluggins.
+Effectively you choose a generation. It will fill a pokemon selector with all those pokemon and you select a pokemon and it will show the picture.
